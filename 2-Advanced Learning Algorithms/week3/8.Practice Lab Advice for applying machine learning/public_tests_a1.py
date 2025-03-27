@@ -118,7 +118,6 @@ def model_s_test(target, classes, input_size):
 def model_r_test(target, classes, input_size):
     target.build(input_shape=(None,input_size))
     expected_lr = 0.01
-    print("ddd")
     assert len(target.layers) == 3, \
         f"Wrong number of layers. Expected 3 but got {len(target.layers)}"
     assert target.input.shape.as_list() == [None, input_size], \
