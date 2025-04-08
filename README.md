@@ -7,7 +7,7 @@
 lab 代码来自于: https://github.com/kaieye/2022-Machine-Learning-Specialization 
 
 个人环境：
-* windows
+* linux
 * vscode-jupyter / jupyter lab
 * python3.7.6
 
