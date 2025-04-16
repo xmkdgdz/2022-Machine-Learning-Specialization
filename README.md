@@ -8,9 +8,12 @@ lab 代码来自于: https://github.com/kaieye/2022-Machine-Learning-Specializat
 
 个人环境：
 * linux
-* vscode-jupyter / jupyter lab
+* vscode-jupyter
 * python3.7.6
 
+安装依赖： `pip install -r requirements.txt`
+
+下载 vscode 插件 Jupyter, Jupyter Notebook Renderers
 
 图像在 vscode 中无法达到预期效果时请尝试更改主题为浅色
 
